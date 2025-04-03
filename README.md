@@ -1,54 +1,20 @@
-Python Advanced Keylogger
+# Python-Advanced-Keylogger
 
-Overview
+*#python* *#keylogger* *#python* *#keylogger* *#tutorial* *#python *#tutoiral* *#keylogger* *#python3* *#keylogger* *#how* *#to* *#keylogger* *#in* *#python* *#advanced* *#easy* *#simple* *#pythonkeylogger*
 
-This is an advanced keylogger written in Python. It is designed for testing and academic purposes only. The tool records keystrokes and can send them via email.
-
-Features
-
-Logs all keystrokes.
-
-Sends logs via email.
-
-Lightweight and easy to set up.
+## Code Walk-through & Learning resources links
+*If you are using a GMAIL account, you will need to change the settings to "Less Secure Apps" to allow python to send email to GMAIL*
 
 
-Setup Instructions
-
-Prerequisites
-
-Python 3.x installed on your system.
-
-An email account for sending logs (preferably Gmail).
+## If you would like to leave a tip you can do so below, thanks 
 
 
-Configuration
+## Built With
 
-1. If using a Gmail account, enable "Less Secure Apps" access in your Gmail settings.
+* **Python 3.6.5** - [https://www.python.org/](https://www.python.org/)
 
+#### Disclaimer
 
-2. Install necessary Python dependencies using:
-
-pip install pynput
-
-
-3. Run the script:
-
-python keylogger.py
-
-
-
-Learning Resources
-
-For a step-by-step guide, watch the tutorial: Click here to watch (Replace with actual link)
-
-Built By
-
-Yasser
-
-Disclaimer
-
-This tool is strictly for testing and academic use and must only be used with explicit consent. Misuse for illegal activities is strictly prohibited.
-
-By using this tool, you take full responsibility for complying with all local, state, and federal laws. The developer assumes no liability for any misuse or damage caused by this software.
-
+> This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for
+> illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume no
+> liability and are not responsible for any misuse or damage caused by this tool and software in general.
